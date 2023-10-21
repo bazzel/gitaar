@@ -11,6 +11,11 @@
 * [ASCII Tabs](https://www.asciitabs.com/) - Genereert random tabs of tabs voor een minor of major scale. 🆓
 * [Ultimate Guitar personal tabs](https://www.ultimate-guitar.com/contribution/submit/tabs) - Je eigen tabs aan Ultimate Guitar toevoegen, tabs van anderen bewerken of een persoonlijke collectie aanleggen. Account is vereist. 🆓
 
+## Scale generators
+* [Scale Generator](https://www.guitarmasterclass.net/scalegenerator/) - Genereert toonladders op basis van een grondtoon. Naast keuze uit de bekendere toonladders (major, minor, blues, etc.) is er ook de optie om meer exotische (Arabian, Egyptian, Ethiopian, ...) te kiezen. De gegenereerde afbeelding kan worden opgeslagen.
+* [Scalerator](http://www.scalerator.com/) - Genereert toonladders op basis van een grondtoon. Vergelijkbaar met **Scale Generator**, maar minder opties.
+* [#fretflip](https://fretflip.com/) - Genereert toonladders op basis van een grondtoon. Vergelijkbaar met **Scale Generator**, maar minder opties. Na een account aangemaakt te hebben, kun je je toonladders online bewaren. 🆓
+
 ## iPhone
 * [Jamn Multi-tool](https://www.getjamn.com/) - Met behulp van Jamn Wheel toont het de relaties tussen toonsoorten, akkoorden en toonladders. 💲
 * [Simply Tune](https://www.hellosimply.com/simply-tune) - Stemapparaat. 🆓
