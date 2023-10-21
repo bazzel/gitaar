@@ -21,3 +21,6 @@
 * [Simply Tune](https://www.hellosimply.com/simply-tune) - Stemapparaat. 🆓
 * [Jam Looper](https://apps.apple.com/us/app/jam-looper/id1061465697) - Eenvoudige looper. 🆓
 
+## Scales
+* [A Study of Scales](https://ianring.com/musictheory/scales/) - Misschien niet alles (alhoewel...), maar wel heel veel over toonladders. 📖
+* [AllTheScales.org](http://allthescales.org/) - Zoals de naam al doet vermoeden: alle toonladders.
