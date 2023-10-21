@@ -8,6 +8,7 @@
 ## Tabs creators
 * [TabMaker](https://tab-maker.com/) - Editor om eenvoudige tabs te maken.
 * [TabbyPro](https://tabby.pro/) - Editor om meer complexe tabs te maken.
+* [ASCII Tabs](https://www.asciitabs.com/) - Genereert random tabs of tabs voor een minor of major scale.
 
 ## iPhone
 * [Jamn Multi-tool](https://www.getjamn.com/) - Met behulp van Jamn Wheel toont het de relaties tussen toonsoorten, akkoorden en toonladders.
