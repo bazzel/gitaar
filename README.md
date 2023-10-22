@@ -24,3 +24,4 @@
 ## Scales
 * [A Study of Scales](https://ianring.com/musictheory/scales/) - Misschien niet alles (alhoewel...), maar wel heel veel over toonladders. 📖
 * [AllTheScales.org](http://allthescales.org/) - Zoals de naam al doet vermoeden: alle toonladders.
+* [Scales Google sheet](https://docs.google.com/spreadsheets/d/1IObR5DCbNZBJCxTUdZuhBzR6K9sa73kDDwgWim7uSuE/edit?usp=sharing) - Visueel overzicht van alle toonladders.
