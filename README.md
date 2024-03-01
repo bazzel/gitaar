@@ -1,5 +1,12 @@
 # gitaar
 
+- [gitaar](#gitaar)
+  - [Players](#players)
+  - [Tabs creators](#tabs-creators)
+  - [Scale generators](#scale-generators)
+  - [iPhone](#iphone)
+  - [Scales](#scales)
+
 ## Players
 
 - [VLC](https://www.videolan.org/vlc/) - Speelt (o.a.) mp3 af. Afspeelsnelheid instelbaar (m.b.v. toonhoogte). 🆓
