@@ -1,11 +1,10 @@
-# gitaar
+# gitaar <!-- omit from toc -->
 
-- [gitaar](#gitaar)
-  - [Players](#players)
-  - [Tabs creators](#tabs-creators)
-  - [Scale generators](#scale-generators)
-  - [iPhone](#iphone)
-  - [Scales](#scales)
+- [Players](#players)
+- [Tabs creators](#tabs-creators)
+- [Scale generators](#scale-generators)
+- [iPhone](#iphone)
+- [Scales](#scales)
 
 ## Players
 
