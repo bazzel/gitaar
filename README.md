@@ -20,6 +20,7 @@
 - [**classclef.com**](https://www.classclef.com) - 5567 Classical/Latin Guitar Tabs, PDF, MIDI
 - [**classtab.org**](https://www.classtab.org) - Classical Guitar Tablature
 - [**DaveTabs**](https://www.davetabs.com/) - Dave Matthews Band
+- [**guitar.ch**](https://www.guitar.ch/en-us/guitar/tab/tab.html) - Tab (tablature) and notation of songs
 - [**GuitarNick**](https://www.guitarnick.com/fingerstyle_blues_songs.html) - 50 Fingerstyle Blues Guitar Songs with TAB
 - [**GuitarDownunder**](https://guitardownunder.com) - Classical, fingerstyle, popular tabs.
 - [**musicnoteslib.com**](https://musicnoteslib.com/)
