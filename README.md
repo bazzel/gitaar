@@ -1,6 +1,7 @@
 # gitaar <!-- omit from toc -->
 
 - [Players](#players)
+- [Tabs](#tabs)
 - [Tabs creators](#tabs-creators)
 - [Scale generators](#scale-generators)
 - [iPhone](#iphone)
@@ -13,6 +14,18 @@
 - [**VLC**](https://www.videolan.org/vlc/) - Speelt (o.a.) mp3 af. Afspeelsnelheid instelbaar (m.b.v. toonhoogte). 🆓
 - [**Audio Speed and Pitch Changer**](https://vocalremover.org/pitch/) - Verandert de toonhoogte en het tempo van het nummer door de muzikale toonsoort- en bpm-schuifregelaars aan te passen. 🆓 🕸️
 - [**Audacity**](https://www.audacityteam.org/) - Opensource-geluidsbewerkingsprogramma om WAV-, AIFF-, Ogg Vorbis-, en MP3-bestanden te maken, te bewerken en op te slaan. 🆓
+
+## Tabs
+
+- [**classclef.com**](https://www.classclef.com) - 5567 Classical/Latin Guitar Tabs, PDF, MIDI
+- [**classtab.org**](https://www.classtab.org) - Classical Guitar Tablature
+- [**DaveTabs**](https://www.davetabs.com/) - Dave Matthews Band
+- [**GuitarNick**](https://www.guitarnick.com/fingerstyle_blues_songs.html) - 50 Fingerstyle Blues Guitar Songs with TAB
+- [**GuitarDownunder**](https://guitardownunder.com) - Classical, fingerstyle, popular tabs.
+- [**musicnoteslib.com**](https://musicnoteslib.com/)
+- [**Songsterr**](https://www.songsterr.com)
+- [**Ultimate Guitar**](https://www.ultimate-guitar.com)
+
 
 ## Tabs creators
 
