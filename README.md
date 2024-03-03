@@ -17,15 +17,18 @@
 
 ## Tabs
 
-- [**classclef.com**](https://www.classclef.com) - 5567 Classical/Latin Guitar Tabs, PDF, MIDI
-- [**classtab.org**](https://www.classtab.org) - Classical Guitar Tablature
-- [**DaveTabs**](https://www.davetabs.com/) - Dave Matthews Band
-- [**guitar.ch**](https://www.guitar.ch/en-us/guitar/tab/tab.html) - Tab (tablature) and notation of songs
-- [**GuitarNick**](https://www.guitarnick.com/fingerstyle_blues_songs.html) - 50 Fingerstyle Blues Guitar Songs with TAB
-- [**GuitarDownunder**](https://guitardownunder.com) - Classical, fingerstyle, popular tabs.
-- [**musicnoteslib.com**](https://musicnoteslib.com/)
+![gp](images/gp.png) Guitar Pro - ![mid](images/mid.png) MIDI - ![pdf](images/pdf.png) PDF - ![txt](images/txt.png) text file - ![png](images/png.png) image
+
+- [**classclef.com**](https://www.classclef.com) - 5567 Classical/Latin Guitar Tabs, PDF, MIDI. ![gp](images/gp.png) ![mid](images/mid.png) ![pdf](images/pdf.png)
+- [**classtab.org**](https://www.classtab.org) - Classical Guitar Tablature. ![pdf](images/pdf.png) ![txt](images/txt.png)
+- [**DaveTabs**](https://www.davetabs.com/) - Dave Matthews Band. ![txt](images/txt.png)
+- [**gtptabs.com**](https://gtptabs.com/) - Free tabs for the [Guitar PRO](https://www.guitar-pro.com/) application. ![gp](images/gp.png)
+- [**guitar.ch**](https://www.guitar.ch/en-us/guitar/tab/tab.html) - Tab (tablature) and notation of songs. ![pdf](images/pdf.png)
+- [**GuitarNick**](https://www.guitarnick.com/fingerstyle_blues_songs.html) - 50 Fingerstyle Blues Guitar Songs with TAB. ![png](images/png.png)
+- [**GuitarDownunder**](https://guitardownunder.com) - Classical, fingerstyle, popular tabs. ![png](images/png.png)
+- [**musicnoteslib.com**](https://musicnoteslib.com/) ![gp](images/gp.png) ![pdf](images/pdf.png)
 - [**Songsterr**](https://www.songsterr.com)
-- [**Ultimate Guitar**](https://www.ultimate-guitar.com)
+- [**Ultimate Guitar**](https://www.ultimate-guitar.com) ![gp](images/gp.png) ![txt](images/txt.png)
 
 
 ## Tabs creators
