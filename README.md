@@ -33,7 +33,7 @@
 
 ## Tabs creators/guitar tablature software
 
-- [**Guitar Pro**](https://www.guitar-pro.com/) - Mijn persoonlijke favoriet. Kost een paar tientjes en er is geen gratis variant beschikbaar, maar is het zeker waard. Daarnaast zijn er talloze PG-bestanden op internet te vinden (GP, GPX, GP5, GP4 en GP3), die je vervolgens in Guitar Pro kunt openen, afspelen en bewerken. 💲
+- [**Guitar Pro**](https://www.guitar-pro.com/) - Mijn persoonlijke favoriet. Kost een paar tientjes en er is *geen* gratis variant beschikbaar, maar het geld is het zeker waard. Daarnaast zijn er [talloze PG-bestanden](README.md#tabs) op internet te vinden (GP, GPX, GP5, GP4 en GP3), die je vervolgens in Guitar Pro kunt openen, afspelen en bewerken. 💲
 - [**MuseScore**](https://musescore.org/nl) - Gratis muziekcompositie- en notatiesoftware. Ondersteunt verschillende bestandsformaten, waaronder Guitar Pro, MIDI, XML. 🆓
 - [**Soundslice**](https://www.soundslice.com/) - Editor om muziek te componeren, af te spelen. Ondersteunt verschillende bestandsformaten, waaronder Guitar Pro. Biedt gratis account, tegen betaling meer functionaliteit. 🆓 💲 🕸️
 - [**TabMaker**](https://tab-maker.com/) - Editor om eenvoudige tabs te maken. 🆓 🕸️
