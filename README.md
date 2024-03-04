@@ -22,7 +22,7 @@
 - [**classclef.com**](https://www.classclef.com) - 5567 Classical/Latin Guitar Tabs, PDF, MIDI. ![gp](images/gp.png) ![mid](images/mid.png) ![pdf](images/pdf.png)
 - [**classtab.org**](https://www.classtab.org) - Classical Guitar Tablature. ![pdf](images/pdf.png) ![txt](images/txt.png)
 - [**DaveTabs**](https://www.davetabs.com/) - Dave Matthews Band. ![txt](images/txt.png)
-- [**gtptabs.com**](https://gtptabs.com/) - Free tabs for the [Guitar PRO](https://www.guitar-pro.com/) application. ![gp](images/gp.png)
+- [**gtptabs.com**](https://gtptabs.com/) - Free tabs for the [Guitar Pro](https://www.guitar-pro.com/) application. ![gp](images/gp.png)
 - [**guitar.ch**](https://www.guitar.ch/en-us/guitar/tab/tab.html) - Tab (tablature) and notation of songs. ![pdf](images/pdf.png)
 - [**GuitarNick**](https://www.guitarnick.com/fingerstyle_blues_songs.html) - 50 Fingerstyle Blues Guitar Songs with TAB. ![png](images/png.png)
 - [**GuitarDownunder**](https://guitardownunder.com) - Classical, fingerstyle, popular tabs. ![png](images/png.png)
@@ -33,6 +33,7 @@
 
 ## Tabs creators/guitar tablature software
 
+- [**Guitar Pro**](https://www.guitar-pro.com/) - Mijn persoonlijke favoriet. Kost een paar tientjes en er is geen gratis variant beschikbaar, maar is het zeker waard. Daarnaast zijn er talloze PG-bestanden op internet te vinden (GP, GPX, GP5, GP4 en GP3), die je vervolgens in Guitar Pro kunt openen, afspelen en bewerken. 💲
 - [**MuseScore**](https://musescore.org/nl) - Gratis muziekcompositie- en notatiesoftware. Ondersteunt verschillende bestandsformaten, waaronder Guitar Pro, MIDI, XML. 🆓
 - [**Soundslice**](https://www.soundslice.com/) - Editor om muziek te componeren, af te spelen. Ondersteunt verschillende bestandsformaten, waaronder Guitar Pro. Biedt gratis account, tegen betaling meer functionaliteit. 🆓 💲 🕸️
 - [**TabMaker**](https://tab-maker.com/) - Editor om eenvoudige tabs te maken. 🆓 🕸️
