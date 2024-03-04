@@ -2,7 +2,7 @@
 
 - [Players](#players)
 - [Tabs](#tabs)
-- [Tabs creators](#tabs-creators)
+- [Tabs creators/guitar tablature software](#tabs-creatorsguitar-tablature-software)
 - [Scale generators](#scale-generators)
 - [iPhone](#iphone)
 - [Scales](#scales)
@@ -31,7 +31,7 @@
 - [**Ultimate Guitar**](https://www.ultimate-guitar.com) ![gp](images/gp.png) ![txt](images/txt.png)
 
 
-## Tabs creators
+## Tabs creators/guitar tablature software
 
 - [**MuseScore**](https://musescore.org/nl) - Gratis muziekcompositie- en notatiesoftware. Ondersteunt verschillende bestandsformaten, waaronder Guitar Pro, MIDI, XML. 🆓
 - [**Soundslice**](https://www.soundslice.com/) - Editor om muziek te componeren, af te spelen. Ondersteunt verschillende bestandsformaten, waaronder Guitar Pro. Biedt gratis account, tegen betaling meer functionaliteit. 🆓 💲 🕸️
@@ -39,6 +39,7 @@
 - [**TabbyPro**](https://tabby.pro/) - Editor om meer complexe tabs te maken. 🆓 🕸️
 - [**ASCII Tabs**](https://www.asciitabs.com/) - Genereert random tabs of tabs voor een minor of major scale. 🆓 🕸️
 - [**Ultimate Guitar personal tabs**](https://www.ultimate-guitar.com/contribution/submit/tabs) - Je eigen tabs aan Ultimate Guitar toevoegen, tabs van anderen bewerken of een persoonlijke collectie aanleggen. Account is vereist. 🆓 💲 🕸️
+- [**Sibelius**](https://www.avid.com/sibelius) - De gratis versie beschikt over beperkte, maar vaak voldoende functionaliteit ([vergelijk versies](https://www.avid.com/sibelius/comparison)). 🆓 💲
 
 ## Scale generators
 
