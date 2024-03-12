@@ -1,6 +1,7 @@
 # gitaar <!-- omit from toc -->
 
 - [Players](#players)
+  - [MIDI players](#midi-players)
 - [Tabs](#tabs)
 - [Tabs creators/guitar tablature software](#tabs-creatorsguitar-tablature-software)
 - [Scale generators](#scale-generators)
@@ -14,6 +15,13 @@
 - [**VLC**](https://www.videolan.org/vlc/) - Speelt (o.a.) mp3 af. Afspeelsnelheid instelbaar (m.b.v. toonhoogte). 🆓
 - [**Audio Speed and Pitch Changer**](https://vocalremover.org/pitch/) - Verandert de toonhoogte en het tempo van het nummer door de muzikale toonsoort- en bpm-schuifregelaars aan te passen. 🆓 🕸️
 - [**Audacity**](https://www.audacityteam.org/) - Opensource-geluidsbewerkingsprogramma om WAV-, AIFF-, Ogg Vorbis-, en MP3-bestanden te maken, te bewerken en op te slaan. 🆓
+
+### MIDI players
+
+- [**Signal**](https://signal.vercel.app/) - Fully Open-sourced Online MIDI Editor. 🆓 🕸️
+- [**Midiano**](https://app.midiano.com/) 🆓 🕸️
+- [**smfplayer.js**](https://logue.dev/smfplayer.js/) - Standard MIDI file player using a WebMidiLink compatible synthesizer. 🆓 🕸️
+- [**Cloud MIDI Player**](https://midiplayer.ehubsoft.net/) - Standard MIDI File Player. 🆓 🕸️
 
 ## Tabs
 
