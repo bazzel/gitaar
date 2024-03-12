@@ -1,6 +1,7 @@
 # gitaar <!-- omit from toc -->
 
 - [Players](#players)
+  - [Audio players](#audio-players)
   - [MIDI players](#midi-players)
 - [Tabs](#tabs)
 - [Tabs creators/guitar tablature software](#tabs-creatorsguitar-tablature-software)
@@ -11,6 +12,8 @@
 🆓 gratis variant - 💲 tegen betaling - 🕸️ webapplicatie - 📖 leesvoer
 
 ## Players
+
+### Audio players
 
 - [**VLC**](https://www.videolan.org/vlc/) - Speelt (o.a.) mp3 af. Afspeelsnelheid instelbaar (m.b.v. toonhoogte). 🆓
 - [**Audio Speed and Pitch Changer**](https://vocalremover.org/pitch/) - Verandert de toonhoogte en het tempo van het nummer door de muzikale toonsoort- en bpm-schuifregelaars aan te passen. 🆓 🕸️
