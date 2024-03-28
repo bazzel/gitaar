@@ -3,6 +3,7 @@
 - [Players](#players)
   - [Audio players](#audio-players)
   - [MIDI players](#midi-players)
+- [MP3 download](#mp3-download)
 - [Tabs](#tabs)
 - [Tabs creators/guitar tablature software](#tabs-creatorsguitar-tablature-software)
 - [Scale generators](#scale-generators)
@@ -25,6 +26,10 @@
 - [**Midiano**](https://app.midiano.com/) 🆓 🕸️
 - [**smfplayer.js**](https://logue.dev/smfplayer.js/) - Standard MIDI file player using a WebMidiLink compatible synthesizer. 🆓 🕸️
 - [**Cloud MIDI Player**](https://midiplayer.ehubsoft.net/) - Standard MIDI File Player. 🆓 🕸️
+
+## MP3 download
+
+- [**MP3Juices**](https://w7.mp3-juices.nu/) - Een MP3 zoekmachine met ingebouwde download. De gedownloade muziek kun je vervolgens openen in je favoriete [audio player](README.md#audio-players).
 
 ## Tabs
 
