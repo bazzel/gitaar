@@ -9,6 +9,7 @@
 - [Scale generators](#scale-generators)
 - [iPhone](#iphone)
 - [Scales](#scales)
+- [Browsers extensions](#browsers-extensions)
 
 🆓 gratis variant - 💲 tegen betaling - 🕸️ webapplicatie - 📖 leesvoer
 
@@ -46,10 +47,9 @@
 - [**Songsterr**](https://www.songsterr.com)
 - [**Ultimate Guitar**](https://www.ultimate-guitar.com) ![gp](images/gp.png) ![txt](images/txt.png)
 
-
 ## Tabs creators/guitar tablature software
 
-- [**Guitar Pro**](https://www.guitar-pro.com/) - Mijn persoonlijke favoriet. Kost een paar tientjes en er is *geen* gratis variant beschikbaar, maar het geld is het zeker waard. Daarnaast zijn er [talloze PG-bestanden](README.md#tabs) op internet te vinden (GP, GPX, GP5, GP4 en GP3), die je vervolgens in Guitar Pro kunt openen, afspelen en bewerken. 💲
+- [**Guitar Pro**](https://www.guitar-pro.com/) - Mijn persoonlijke favoriet. Kost een paar tientjes en er is _geen_ gratis variant beschikbaar, maar het geld is het zeker waard. Daarnaast zijn er [talloze PG-bestanden](README.md#tabs) op internet te vinden (GP, GPX, GP5, GP4 en GP3), die je vervolgens in Guitar Pro kunt openen, afspelen en bewerken. 💲
 - [**MuseScore**](https://musescore.org/nl) - Gratis muziekcompositie- en notatiesoftware. Ondersteunt verschillende bestandsformaten, waaronder Guitar Pro, MIDI, XML. 🆓
 - [**Soundslice**](https://www.soundslice.com/) - Editor om muziek te componeren, af te spelen. Ondersteunt verschillende bestandsformaten, waaronder Guitar Pro. Biedt gratis account, tegen betaling meer functionaliteit. 🆓 💲 🕸️
 - [**TabMaker**](https://tab-maker.com/) - Editor om eenvoudige tabs te maken. 🆓 🕸️
@@ -76,3 +76,9 @@
 - [**AllTheScales.org**](http://allthescales.org/) - Zoals de naam al doet vermoeden: alle toonladders.
 - [**Scales Google sheet**](https://docs.google.com/spreadsheets/d/1IObR5DCbNZBJCxTUdZuhBzR6K9sa73kDDwgWim7uSuE/edit?usp=sharing) - Visueel overzicht van alle toonladders.
 - [**Scails**](https://scales.bazzel.nl/) - Een eigen experimentje wat alle toonladders op een rijtje toont en de mogelijkheid geeft om ze af te spelen. Zo kun je bv. eenvoudig verschillende toonladders qua klank met elkaar vergelijken. 🆓 🕸️ 🚧
+
+## Browsers extensions
+
+- [Transpose](https://chromewebstore.google.com/detail/transpose-%E2%96%B2%E2%96%BC-pitch-%E2%96%B9-spee/ioimlbgefgadofblnajllknopjboejda) - Pitch shifter, speed changer and looper for online videos like YouTube. Musician's toolbox for practicing and rehearsing.
+- [HueTab](https://chromewebstore.google.com/detail/huetab-colors-for-ultimat/dallnmljjnjlfgcljhjahhhdfpojnbfc) - Beautify [Ultimate Guitar](https://www.ultimate-guitar.com) tabs and use color to enhance your pattern recognition.
+- [Modest Guitar](https://chromewebstore.google.com/detail/modest-guitar-columns-for/kbdobpkcobapldadlpcjbjijmjnjfddk) - Multiple columns for viewing [Ultimate Guitar](https://www.ultimate-guitar.com) tabs
