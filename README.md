@@ -20,6 +20,7 @@
 - [**VLC**](https://www.videolan.org/vlc/) - Speelt (o.a.) mp3 af. Afspeelsnelheid instelbaar (m.b.v. toonhoogte). 🆓
 - [**Audio Speed and Pitch Changer**](https://vocalremover.org/pitch/) - Verandert de toonhoogte en het tempo van het nummer door de muzikale toonsoort- en bpm-schuifregelaars aan te passen. 🆓 🕸️
 - [**Audacity**](https://www.audacityteam.org/) - Opensource-geluidsbewerkingsprogramma om WAV-, AIFF-, Ogg Vorbis-, en MP3-bestanden te maken, te bewerken en op te slaan. 🆓
+- [**Transpose**](https://transpose.video/) - Pitch shifter, speed changer and looper for online videos like YouTube. Musician's toolbox for practicing and rehearsing. Dit is een Google Chrome extension.
 
 ### MIDI players
 
@@ -79,6 +80,6 @@
 
 ## Browsers extensions
 
-- [Transpose](https://chromewebstore.google.com/detail/transpose-%E2%96%B2%E2%96%BC-pitch-%E2%96%B9-spee/ioimlbgefgadofblnajllknopjboejda) - Pitch shifter, speed changer and looper for online videos like YouTube. Musician's toolbox for practicing and rehearsing.
-- [HueTab](https://chromewebstore.google.com/detail/huetab-colors-for-ultimat/dallnmljjnjlfgcljhjahhhdfpojnbfc) - Beautify [Ultimate Guitar](https://www.ultimate-guitar.com) tabs and use color to enhance your pattern recognition.
-- [Modest Guitar](https://chromewebstore.google.com/detail/modest-guitar-columns-for/kbdobpkcobapldadlpcjbjijmjnjfddk) - Multiple columns for viewing [Ultimate Guitar](https://www.ultimate-guitar.com) tabs
+- [**Transpose**](https://chromewebstore.google.com/detail/transpose-%E2%96%B2%E2%96%BC-pitch-%E2%96%B9-spee/ioimlbgefgadofblnajllknopjboejda) - Pitch shifter, speed changer and looper for online videos like YouTube. Musician's toolbox for practicing and rehearsing.
+- [**HueTab**](https://chromewebstore.google.com/detail/huetab-colors-for-ultimat/dallnmljjnjlfgcljhjahhhdfpojnbfc) - Beautify [Ultimate Guitar](https://www.ultimate-guitar.com) tabs and use color to enhance your pattern recognition.
+- [**Modest Guitar**](https://chromewebstore.google.com/detail/modest-guitar-columns-for/kbdobpkcobapldadlpcjbjijmjnjfddk) - Multiple columns for viewing [Ultimate Guitar](https://www.ultimate-guitar.com) tabs
