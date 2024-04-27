@@ -9,7 +9,7 @@
 - [Scale generators](#scale-generators)
 - [iPhone](#iphone)
 - [Scales](#scales)
-- [Browsers extensions](#browsers-extensions)
+- [Google Chrome extensions](#google-chrome-extensions)
 
 🆓 gratis variant - 💲 tegen betaling - 🕸️ webapplicatie - 📖 leesvoer
 
@@ -80,7 +80,9 @@
 - [**Scales Google sheet**](https://docs.google.com/spreadsheets/d/1IObR5DCbNZBJCxTUdZuhBzR6K9sa73kDDwgWim7uSuE/edit?usp=sharing) - Visueel overzicht van alle toonladders.
 - [**Scails**](https://scales.bazzel.nl/) - Een eigen experimentje wat alle toonladders op een rijtje toont en de mogelijkheid geeft om ze af te spelen. Zo kun je bv. eenvoudig verschillende toonladders qua klank met elkaar vergelijken. 🆓 🕸️ 🚧
 
-## Browsers extensions
+## Google Chrome extensions
+
+Chrome extensions zijn uitbreidingen op de browser van Google. Hieronder vind je een aantal handige gitaar-/muziekgerelateerde extensions:
 
 - [**Transpose**](https://chromewebstore.google.com/detail/transpose-%E2%96%B2%E2%96%BC-pitch-%E2%96%B9-spee/ioimlbgefgadofblnajllknopjboejda) - Pitch shifter, speed changer and looper for online videos like YouTube. Musician's toolbox for practicing and rehearsing.
 - [**HueTab**](https://chromewebstore.google.com/detail/huetab-colors-for-ultimat/dallnmljjnjlfgcljhjahhhdfpojnbfc) - Beautify [Ultimate Guitar](https://www.ultimate-guitar.com) tabs and use color to enhance your pattern recognition.
