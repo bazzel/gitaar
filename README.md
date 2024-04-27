@@ -70,7 +70,7 @@
 
 - [**Jamn Multi-tool**](https://www.getjamn.com/) - Met behulp van Jamn Wheel toont het de relaties tussen toonsoorten, akkoorden en toonladders. 💲
 - [**Simply Tune**](https://www.hellosimply.com/simply-tune) - Stemapparaat. 🆓
-- [**BOSS Tuner**](https://apps.apple.com/us/app/boss-tuner/id1113473319) - Stemapparaat mèt reference pitch zodat je bv. kunt stemmen op 432 Hz.
+- [**BOSS Tuner**](https://apps.apple.com/us/app/boss-tuner/id1113473319) - Stemapparaat mèt reference pitch zodat je bv. kunt stemmen op 432 Hz. 🆓
 - [**Jam Looper**](https://apps.apple.com/us/app/jam-looper/id1061465697) - Eenvoudige looper. 🆓
 
 ## Scales
