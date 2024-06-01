@@ -48,6 +48,7 @@
 - [**Songsterr**](https://www.songsterr.com)
 - [**Ultimate Guitar**](https://www.ultimate-guitar.com) ![gp](images/gp.png) ![txt](images/txt.png)
 - [**911Tabs**](https://www.911tabs.com/) - Tabs & chords search engine. ![gp](images/gp.png) ![mid](images/mid.png) ![pdf](images/pdf.png) ![txt](images/txt.png)
+- [**The Guitar School**](https://classical-guitar-school.com/) - The Guitar School offers over 3300 pages of sheet music by Eythor Thorlaksson for the classical guitar. ![pdf](images/pdf.png)
 
 ## Tabs creators/guitar tablature software
 
